@@ -1,0 +1,1 @@
+C:\Users\Joao\AppData\Local\Programs\Python\Python36-32\python.exe "C:\Users\Joao\Google Drive\Discord\Bot\moraisbot.py"
